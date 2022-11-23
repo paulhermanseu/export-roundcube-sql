@@ -19,7 +19,7 @@
 
 define('VERSION', '0.2');
 define('ROUNDCUBE_VERSION_MIN', '2013011000');
-define('ROUNDCUBE_VERSION_MAX', '2015030800');
+define('ROUNDCUBE_VERSION_MAX', '2019092900');
 define('ROUNDCUBE_DATABASE', 'roundcubemail');
 define('DATABASE_HOST', 'localhost');
 
